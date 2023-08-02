@@ -13,5 +13,11 @@ This repository hosts R markdown notebooks reproducing the figures from the GEDI
 * [Fig. 5: Analysis of latent splicing space](https://htmlpreview.github.io/?https://github.com/csglab/GEDI_manuscript/blob/main/notebooks/tasic_analysis.nb.html)
 * [Fig. 5: Analysis of latent stability space](https://htmlpreview.github.io/?https://github.com/csglab/GEDI_manuscript/blob/main/notebooks/LaManno_analysis.nb.html)
 
+## Data
+
+Data needed to run the notebooks can be found in the following Zenodo accessions. 
+
+## Package
+
 To download and install GEDI, please visit [here](https://github.com/csglab/GEDI/). 
 

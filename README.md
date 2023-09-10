@@ -16,8 +16,8 @@ This repository hosts R markdown notebooks reproducing the figures from the GEDI
 ## Data
 
 Data needed to run the notebooks can be found in the following Zenodo accessions:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8222040.svg)](https://doi.org/10.5281/zenodo.8222040)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8222698.svg)](https://doi.org/10.5281/zenodo.8222698)
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8222040.svg)](https://doi.org/10.5281/zenodo.8222040)
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8222698.svg)](https://doi.org/10.5281/zenodo.8222698)
 
 
 ## Package

@@ -24,6 +24,6 @@ Data needed to run the notebooks can be found in the following Zenodo accessions
 
 To download and install GEDI, please visit [here](https://github.com/csglab/GEDI/). 
 
-# Preprint
+## Preprint
 
 [Madrigal, A., Lu, T., Soto, L. M., & Najafabadi, H. S. (2023). A unified model for interpretable latent embedding of multi-sample, multi-condition single-cell data. bioRxiv, 2023-08.](https://www.biorxiv.org/content/10.1101/2023.08.15.553327v1)
